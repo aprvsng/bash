@@ -22,4 +22,5 @@ awk- this command is used to filter specific columns of the output
 curl- thsi command retrives the information from the intermet using URL
 wget- this command downlods the information from the URL
 find- this command is used to locate the files and folders on the machine
+###########################################################################################
 
