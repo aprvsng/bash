@@ -16,6 +16,7 @@ chmod- this command is used to change permissions for the files
 nproc- this command will list the total no. of CPUs on the machine
 free- this command will tell about the memory of the machine
 top- this commands tells about all the running processes on the machine
+ps -ef- this command is used to print all the processes
 grep- this command is used to filter put the specific texts containing results/outputs
 | (pipe)-this command is used to send the output of first command into second command
 awk- this command is used to filter specific columns of the output
