@@ -1,2 +1,4 @@
 # bash
-This repo contains information about the basic commands and function used in shell scripting.
+bash is a the most widely used shell in linux distributions  
+bash stands for bourne again shell  
+a shell is the interpreter that converts the commands into machine understandable language  
